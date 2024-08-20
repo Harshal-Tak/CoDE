@@ -2,7 +2,7 @@
 
 This is an Events Points app, developed for the event Neuron 2.0, conducted by the Club of Data Engineers.
 
-**Note1: The backend for this app is connected to my Firebase.
+**Note1: The backend for this app is connected to my Firebase.**
 
 **Note2: This is a very premature app, the UI, isn't well done yet.**
 ## Some Screenshots
