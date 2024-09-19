@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1000537582996",
-    "project_id": "code-e2ee6",
-    "storage_bucket": "code-e2ee6.appspot.com"
+    "project_number": "${PROJECT_NUMBER}",
+    "project_id": "${PROJECT_ID}",
+    "storage_bucket": "${STORAGE_BUCKET}"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1000537582996:android:eae83b4a50bd7702dcf381",
+        "mobilesdk_app_id": "${APP_ID}",
         "android_client_info": {
-          "package_name": "com.example.code"
+          "package_name": "${PACKAGE_NAME}"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDKcAyym-TYlb0zDKlEU5Jsnm9toZtElns"
+          "current_key": "${API_KEY}"
         }
       ],
       "services": {
