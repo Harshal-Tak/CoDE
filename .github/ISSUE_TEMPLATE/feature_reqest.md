@@ -4,6 +4,7 @@ description: Suggest a new feature for the Flutter app
 title: "[FEATURE]"
 labels: enhancement
 assignees: ''
+about: This template is to add new feature.
 
 ---
 

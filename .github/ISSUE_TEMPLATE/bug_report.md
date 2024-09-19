@@ -4,6 +4,7 @@ description: Report a bug in the project
 title: "[BUG]"
 labels: bug
 assignees: ""
+about: This template is for resolving bugs.
 
 ---
 
